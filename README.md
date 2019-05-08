@@ -1,15 +1,16 @@
-#User Churn Case Study
+# User Churn Case Study
 
-This case study examines user data of a ride share company and attempts to predict when a user is at risk of churning. The following describes the structure of this repository and outlines some of the findings. A power point presentation on this study can be found at: (https://docs.google.com/presentation/d/1VioQ_eyWrkHiL3bYA5y07LH-I6__7uViXmE0HuHxGCM/edit?usp=sharing). The data is ommited from the repository as per request of the company.
-Structure:
+This case study examines user data of a ride share company and attempts to predict when a user is at risk of churning. The following describes the structure of this repository and outlines some of the findings. A power point presentation on this study can be found at: https://bit.ly/2H8KOgQ. The data is ommited from the repository as per request of the company.
 
-    Initial EDA was done in eda.ipynb file.
-    The bulk of the model including data cleaning is done in churn_model.py
-    Some helper functions for generating profit curves in in helpers.py
-    Images directory contains:
-        Profit curves with different budgets.
-        A feature importance plot.
-        An ROC plot of our model.
+### Structure:
+
+    - Initial EDA was done in eda.ipynb file.
+    - The bulk of the model including data cleaning is done in churn_model.py
+    - Some helper functions for generating profit curves in in helpers.py
+    - Images directory contains:
+        - Profit curves with different budgets.
+        - A feature importance plot.
+        - An ROC plot of our model.
 
 Model:
 
