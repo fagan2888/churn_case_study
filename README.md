@@ -4,13 +4,13 @@ This case study examines user data of a ride share company and attempts to predi
 
 ### Structure:
 
-- Initial EDA was done in eda.ipynb file.
+- Initial EDA was done in eda.ipynb file
 - The bulk of the model including data cleaning is done in churn_model.py
 - Some helper functions for generating profit curves in in helpers.py
-- Images directory contains:
+- Images directory contains
     - Profit curves with different budgets
-    - A feature importance plot
-    - An ROC plot of our model
+    - Feature importance plot
+    - ROC plot of our model
 
 ### Model:
 
