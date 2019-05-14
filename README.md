@@ -21,9 +21,9 @@ This case study examines user data of a ride share company and attempts to predi
 
 ### Findings:
 
-- Several different budgets were created assuming that one way to get an at-risk customer to not churn was a promotion. 
-    - We created several different budgets with this assumption in order to figure out what the optimal threshold would be in considering a user at-risk.
-    - These findings are displayed in the images folder.
+- Several different budgets were created assuming that one way to get an at-risk customer to not churn was a promotion
+    - We created several different budgets with this assumption in order to figure out what the optimal threshold would be in considering a user at-risk
+    - These findings are displayed in the images folder
     - Analyzing the feature importance in our Gradient Boosted model revealed the the strongest factors were:
         - The % of time the user rode during surge pricing
         - The % of time the user used the service during the weekday
