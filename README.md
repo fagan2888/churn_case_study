@@ -1,6 +1,6 @@
 # User Churn Case Study
 
-This case study examines user data of a ride share company and attempts to predict when a user is at risk of churning. The following describes the structure of this repository and outlines some of the findings. A power point presentation on this study can be found at: https://bit.ly/2H8KOgQ. The data is ommited from the repository as per request of the company.
+This case study examines user data of a ride share company and attempts to predict when a user is at risk of churning. The following describes the structure of this repository and outlines some of the findings. A power point presentation on this study can be found [here](https://bit.ly/2H8KOgQ). The data is ommited from the repository as per request of the company.
 
 ### Structure:
 
